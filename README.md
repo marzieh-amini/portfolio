@@ -13,6 +13,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+Home (dark mode):
+![portfilo](https://github.com/user-attachments/assets/face7d7c-2c02-4fa0-80f8-dca1eb8fbed3)
+
+About (light mode):
+![portfilo22](https://github.com/user-attachments/assets/4ee1e97b-ba3f-4bce-bc45-406ad01e488f)
+
 
 ### `npm test`
 
